@@ -3,7 +3,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("Enter number of board titles: ");
+        System.out.println("Enter number of board tiles: ");
         int N = in.nextInt();
         int [][] chessBoard = new int[N][N];
         initBoard(chessBoard, N);
