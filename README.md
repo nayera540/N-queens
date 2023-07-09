@@ -1,2 +1,2 @@
 # N queens
- It is my brute force solution for N queeens problem
+My brute force solution for N queens problem
